@@ -1,0 +1,1 @@
+MOVE "Dirección de la guía" "Dirección del repositorio local"

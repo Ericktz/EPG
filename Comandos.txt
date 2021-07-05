@@ -1,0 +1,6 @@
+git config --global user.name "UsuarioGithub"
+git config --global user.email "emailGithub@gmail.com"
+
+
+Dentro de la carpeta que será el repositorio local
+git init
