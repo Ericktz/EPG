@@ -1,0 +1,1892 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal CNN Chile">
+    <display-name lang="es">Canal CNN Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 2 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 2 (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 3 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 3 (Cono Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports Premium (Argentina)">
+    <display-name lang="es">Canal Fox Sports Premium (Argentina)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal La Red (Chile)">
+    <display-name lang="es">Canal La Red (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">Canal TV Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TVN (Chile)">
+    <display-name lang="es">Canal TVN (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Mega">
+    <display-name lang="es">Canal Mega</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 3 (Sur)">
+    <display-name lang="es">Canal ESPN 3 (Sur)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2 Chile">
+    <display-name lang="es">Canal ESPN 2 Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Sports">
+    <display-name lang="es">Canal TNT Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Sports 2">
+    <display-name lang="es">Canal TNT Sports 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Sports 3">
+    <display-name lang="es">Canal TNT Sports 3</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL DIRECTV Sports Chile">
+    <display-name lang="en">CL DIRECTV Sports Chile</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="CL DIRECTV Sports 2">
+    <display-name lang="en">CL DIRECTV Sports 2</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="CL DIRECTV Sports Plus">
+    <display-name lang="en">CL DIRECTV Sports Plus</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="Canal 13 de Chile">
+    <display-name lang="es">Canal 13 de Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 24 Horas (Chile)">
+    <display-name lang="es">Canal 24 Horas (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">Canal Chilevisión (CHV)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210720010000 -0500" stop="20210720013000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Minería 360</title>
+  </programme>
+  <programme start="20210720013000 -0500" stop="20210720023000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Especial primarias</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720030000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720033000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210720033000 -0500" stop="20210720043000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Última mirada</title>
+  </programme>
+  <programme start="20210720043000 -0500" stop="20210720050000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720063000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720080000 -0500" channel="Canal CNN Chile">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720083000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica AM</title>
+  </programme>
+  <programme start="20210720083000 -0500" stop="20210720090000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión Global Prime</title>
+  </programme>
+  <programme start="20210720090000 -0500" stop="20210720130000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720153000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias tarde CNN/CHV</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720154500 -0500" channel="Canal CNN Chile">
+    <title lang="es">Sabor CNN</title>
+  </programme>
+  <programme start="20210720154500 -0500" stop="20210720161500 -0500" channel="Canal CNN Chile">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210720161500 -0500" stop="20210720164500 -0500" channel="Canal CNN Chile">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210720164500 -0500" stop="20210720183000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210720183000 -0500" stop="20210720190000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720200000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720203000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720223000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210720223000 -0500" stop="20210720230000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210720233000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721000000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210721010000 -0500" stop="20210721013000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210721013000 -0500" stop="20210721023000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210721023000 -0500" stop="20210721030000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721063000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210721153000 -0500" stop="20210721160000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Sabor CNN</title>
+  </programme>
+  <programme start="20210721160000 -0500" stop="20210721163000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Rompeparadigmas</title>
+  </programme>
+  <programme start="20210721163000 -0500" stop="20210721183000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210721183000 -0500" stop="20210721190000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210721190000 -0500" stop="20210721200000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210721200000 -0500" stop="20210721203000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210721203000 -0500" stop="20210721223000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210721223000 -0500" stop="20210721233000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210722013000 -0500" stop="20210722020000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210722020000 -0500" stop="20210722023000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210722023000 -0500" stop="20210722030000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210722030000 -0500" stop="20210722033000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210722033000 -0500" stop="20210722043000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Última mirada</title>
+  </programme>
+  <programme start="20210722043000 -0500" stop="20210722050000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210722050000 -0500" stop="20210722053000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210722053000 -0500" stop="20210722060000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722063000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210722063000 -0500" stop="20210722080000 -0500" channel="Canal CNN Chile">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722083000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica AM</title>
+  </programme>
+  <programme start="20210722083000 -0500" stop="20210722090000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Conexión Global Prime</title>
+  </programme>
+  <programme start="20210722090000 -0500" stop="20210722130000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210722130000 -0500" stop="20210722153000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Noticias tarde CNN/CHV</title>
+  </programme>
+  <programme start="20210722153000 -0500" stop="20210722154500 -0500" channel="Canal CNN Chile">
+    <title lang="es">Sabor CNN</title>
+  </programme>
+  <programme start="20210722154500 -0500" stop="20210722164500 -0500" channel="Canal CNN Chile">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210722223000 -0500" stop="20210722233000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210722233000 -0500" stop="20210723000000 -0500" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720030000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720060000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC 117: Saint Preux vs. Okami</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720080000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Sao Paulo vs. Racing</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720090000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UEFA Champions League Classic</title>
+  </programme>
+  <programme start="20210720090000 -0500" stop="20210720100000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720130000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Poirier vs. Pettis</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720140000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720150000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720170000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Cerro Porteño vs. Fluminense</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720180000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720183000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Winter News</title>
+  </programme>
+  <programme start="20210720183000 -0500" stop="20210720200000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720220000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">2016: Atlético Nacional vs. Rosario Central</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720230000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Final de Película</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Semifinal de Película</title>
+  </programme>
+  <programme start="20210721000000 -0500" stop="20210721020000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fluminense vs. Cerro Porteño</title>
+  </programme>
+  <programme start="20210721020000 -0500" stop="20210721030000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20210721030000 -0500" stop="20210721060000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Poirier vs. Pettis</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721080000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Fluminense vs. Cerro Porteño</title>
+  </programme>
+  <programme start="20210721100000 -0500" stop="20210721130000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Werdum vs. Tybura</title>
+  </programme>
+  <programme start="20210721140000 -0500" stop="20210721150000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210721150000 -0500" stop="20210721170000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Defensa y Justicia vs. Flamengo</title>
+  </programme>
+  <programme start="20210721180000 -0500" stop="20210721183000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Conectado</title>
+  </programme>
+  <programme start="20210721200000 -0500" stop="20210722000000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">2016: Boca vs. Nacional (URU)</title>
+  </programme>
+  <programme start="20210722000000 -0500" stop="20210722020000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Palmeiras vs. Club Universidad Católica</title>
+  </programme>
+  <programme start="20210722030000 -0500" stop="20210722060000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Werdum vs. Tybura</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722080000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Palmeiras vs. Club Universidad Católica</title>
+  </programme>
+  <programme start="20210722100000 -0500" stop="20210722130000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Fight Night: Swanson vs. Ortega</title>
+  </programme>
+  <programme start="20210722140000 -0500" stop="20210722150000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210722150000 -0500" stop="20210722170000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Atlético Mineiro vs. Boca</title>
+  </programme>
+  <programme start="20210722180000 -0500" stop="20210722190000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210722190000 -0500" stop="20210722200000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210722200000 -0500" stop="20210722203000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210722203000 -0500" stop="20210722223000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Internacional vs. Olimpia</title>
+  </programme>
+  <programme start="20210722223000 -0500" stop="20210722230000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">Winter News</title>
+  </programme>
+  <programme start="20210722230000 -0500" stop="20210723000000 -0500" channel="Canal Fox Sports (Cono Sur)">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720030000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC The Ultimate Fighter</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720040000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720060000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Estudiantes vs. Central Córdoba</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720080000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE SmackDown</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720100000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final ida Boca Juniors vs. Atlético Mineiro</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720120000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210720120000 -0500" stop="20210720130000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Arsenal Campeón Sudamericana 2007</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720150000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">F1</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720180000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720181500 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Previa Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20210720181500 -0500" stop="20210720201500 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Fluminense vs. Cerro Porteño</title>
+  </programme>
+  <programme start="20210720201500 -0500" stop="20210720203000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720213000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20210720213000 -0500" stop="20210720233000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Fluminense vs. Cerro Porteño</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721000000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20210721020000 -0500" stop="20210721030000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20210721040000 -0500" stop="20210721060000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Unión vs. Patronato</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721070000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721080000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210721080000 -0500" stop="20210721100000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Racing vs. São Paulo</title>
+  </programme>
+  <programme start="20210721100000 -0500" stop="20210721120000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210721120000 -0500" stop="20210721130000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Cienciano Campeón Copa Sudamericana 2003</title>
+  </programme>
+  <programme start="20210721130000 -0500" stop="20210721150000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">F1</title>
+  </programme>
+  <programme start="20210721150000 -0500" stop="20210721180000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210721180000 -0500" stop="20210721181500 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Previa Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20210721181500 -0500" stop="20210721201500 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Palmeiras vs. Universidad Católica</title>
+  </programme>
+  <programme start="20210721201500 -0500" stop="20210721203000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210721203000 -0500" stop="20210721213000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20210721213000 -0500" stop="20210721233000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Palmeiras vs. Universidad Católica</title>
+  </programme>
+  <programme start="20210721233000 -0500" stop="20210722000000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Momentos Eternos</title>
+  </programme>
+  <programme start="20210722020000 -0500" stop="20210722030000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20210722040000 -0500" stop="20210722060000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Banfield vs. San Lorenzo</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722070000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722100000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Barcelona SC vs. Vélez Sársfield</title>
+  </programme>
+  <programme start="20210722100000 -0500" stop="20210722120000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Octavos de final vuelta Flamengo vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210722120000 -0500" stop="20210722130000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">River Plate campeón de la Copa Libertadores 2015</title>
+  </programme>
+  <programme start="20210722150000 -0500" stop="20210722180000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20210722180000 -0500" stop="20210722190000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20210722190000 -0500" stop="20210722200000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20210722200000 -0500" stop="20210722220000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210722220000 -0500" stop="20210723000000 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">La Era Riquelme</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720040000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720060000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720093000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20210720093000 -0500" stop="20210720100000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">W Series Driven</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720110000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Resumen - WRC</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720130000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720163000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20210720163000 -0500" stop="20210720170000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">W Series Driven</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720180000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720190000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720203000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720210000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Magazine - Extreme E</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210721010000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WEC</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210722010000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WEC</title>
+  </programme>
+  <programme start="20210722010000 -0500" stop="20210722040000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">IMSA Weathertech Sportscar Championship</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722083000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20210722083000 -0500" stop="20210722090000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20210722090000 -0500" stop="20210722103000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WRC</title>
+  </programme>
+  <programme start="20210722103000 -0500" stop="20210722110000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Magazine - Extreme E</title>
+  </programme>
+  <programme start="20210722110000 -0500" stop="20210722130000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210722130000 -0500" stop="20210722153000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20210722153000 -0500" stop="20210722160000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20210722160000 -0500" stop="20210722163000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Magazine - Extreme E</title>
+  </programme>
+  <programme start="20210722163000 -0500" stop="20210722173000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210722173000 -0500" stop="20210722190000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WRC</title>
+  </programme>
+  <programme start="20210722190000 -0500" stop="20210722200000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Resumen - WRC</title>
+  </programme>
+  <programme start="20210722200000 -0500" stop="20210722210000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">W Series</title>
+  </programme>
+  <programme start="20210722210000 -0500" stop="20210722220000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210722220000 -0500" stop="20210722230000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210722230000 -0500" stop="20210723003000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210723230000 -0500" stop="20210724003000 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
+  </programme>
+  <programme start="20210720003000 -0500" stop="20210720020000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720030000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720053000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720110000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720150000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720153000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720193000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20210720193000 -0500" stop="20210720212500 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210720212500 -0500" stop="20210720220000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210721020000 -0500" stop="20210721030000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20210721212500 -0500" stop="20210721220000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Lazos de Sangre</title>
+  </programme>
+  <programme start="20210722212500 -0500" stop="20210722220000 -0500" channel="Canal La Red (Chile)">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210720004500 -0500" stop="20210720013000 -0500" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210720013000 -0500" stop="20210720023000 -0500" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720033000 -0500" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210720033000 -0500" stop="20210720040000 -0500" channel="Canal TV Chile">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720053000 -0500" channel="Canal TV Chile">
+    <title lang="es">La ruta del agua</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720062500 -0500" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210720062500 -0500" stop="20210720080000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720130000 -0500" channel="Canal TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720153000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720163000 -0500" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210720163000 -0500" stop="20210720170000 -0500" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720173000 -0500" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210720173000 -0500" stop="20210720190000 -0500" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720194500 -0500" channel="Canal TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210720194500 -0500" stop="20210720201500 -0500" channel="Canal TV Chile">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210720201500 -0500" stop="20210720210000 -0500" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720224000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20210720224000 -0500" stop="20210720235000 -0500" channel="Canal TV Chile">
+    <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+  <programme start="20210720235000 -0500" stop="20210721004500 -0500" channel="Canal TV Chile">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210721023000 -0500" stop="20210721033000 -0500" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210721040000 -0500" stop="20210721050000 -0500" channel="Canal TV Chile">
+    <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+  <programme start="20210721050000 -0500" stop="20210721053000 -0500" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210721053000 -0500" stop="20210721080000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210721080000 -0500" stop="20210721090000 -0500" channel="Canal TV Chile">
+    <title lang="es">La ruta del agua</title>
+  </programme>
+  <programme start="20210721090000 -0500" stop="20210721130000 -0500" channel="Canal TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210721130000 -0500" stop="20210721153000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210721153000 -0500" stop="20210721163000 -0500" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210721163000 -0500" stop="20210721170000 -0500" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210721170000 -0500" stop="20210721173000 -0500" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210721173000 -0500" stop="20210721190000 -0500" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210721190000 -0500" stop="20210721194500 -0500" channel="Canal TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210721194500 -0500" stop="20210721201500 -0500" channel="Canal TV Chile">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210721201500 -0500" stop="20210721210000 -0500" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210721224000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20210721224000 -0500" stop="20210721235000 -0500" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
+  </programme>
+  <programme start="20210722023000 -0500" stop="20210722030000 -0500" channel="Canal TV Chile">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210722030000 -0500" stop="20210722040000 -0500" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210722040000 -0500" stop="20210722050000 -0500" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
+  </programme>
+  <programme start="20210722053000 -0500" stop="20210722062500 -0500" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210722062500 -0500" stop="20210722080000 -0500" channel="Canal TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722094500 -0500" channel="Canal TV Chile">
+    <title lang="es">Zoom: Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20210722094500 -0500" stop="20210722130000 -0500" channel="Canal TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210722224000 -0500" stop="20210723000000 -0500" channel="Canal TV Chile">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20210720004500 -0500" stop="20210720014500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">The Good Doctor</title>
+  </programme>
+  <programme start="20210720014500 -0500" stop="20210720023000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720024500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210720024500 -0500" stop="20210720062500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210720062500 -0500" stop="20210720080000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720130000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720152500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210720152500 -0500" stop="20210720163500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210720163500 -0500" stop="20210720172500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210720172500 -0500" stop="20210720190000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720195000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210720195000 -0500" stop="20210720210000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Almas Heridas</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720223500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720223500 -0500" stop="20210720224000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210720224000 -0500" stop="20210720234500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20210720234500 -0500" stop="20210721010000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20210721010000 -0500" stop="20210721020000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">The Good Doctor</title>
+  </programme>
+  <programme start="20210721020000 -0500" stop="20210721024500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210721024500 -0500" stop="20210721053000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210721053000 -0500" stop="20210721070000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721090000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">JJOO</title>
+  </programme>
+  <programme start="20210721090000 -0500" stop="20210721130000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210721172500 -0500" stop="20210721175500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210721175500 -0500" stop="20210721182500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210721182500 -0500" stop="20210721185500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210721185500 -0500" stop="20210721190000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210721190000 -0500" stop="20210721195000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210721195000 -0500" stop="20210721210000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Almas Heridas</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210721223500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210721223500 -0500" stop="20210721224000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210721224000 -0500" stop="20210721234500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20210721234500 -0500" stop="20210722004500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20210722024500 -0500" stop="20210722060000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722071500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210722071500 -0500" stop="20210722093000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">JJOO</title>
+  </programme>
+  <programme start="20210722093000 -0500" stop="20210722130000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210722130000 -0500" stop="20210722152500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210722152500 -0500" stop="20210722163500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210722163500 -0500" stop="20210722172500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210722172500 -0500" stop="20210722175500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210722175500 -0500" stop="20210722182500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210722182500 -0500" stop="20210722185500 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210722185500 -0500" stop="20210722190000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210722224000 -0500" stop="20210723000000 -0500" channel="Canal TVN (Chile)">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20210720004500 -0500" stop="20210720014500 -0500" channel="Canal Mega">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210720014500 -0500" stop="20210720054500 -0500" channel="Canal Mega">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210720054500 -0500" stop="20210720063000 -0500" channel="Canal Mega">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720080000 -0500" channel="Canal Mega">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720130000 -0500" channel="Canal Mega">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720152500 -0500" channel="Canal Mega">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210720152500 -0500" stop="20210720153000 -0500" channel="Canal Mega">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720161500 -0500" channel="Canal Mega">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210720161500 -0500" stop="20210720170000 -0500" channel="Canal Mega">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720180000 -0500" channel="Canal Mega">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720185000 -0500" channel="Canal Mega">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20210720185000 -0500" stop="20210720195000 -0500" channel="Canal Mega">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210720195000 -0500" stop="20210720210000 -0500" channel="Canal Mega">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720222500 -0500" channel="Canal Mega">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210720222500 -0500" stop="20210720223000 -0500" channel="Canal Mega">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210720223000 -0500" stop="20210720231500 -0500" channel="Canal Mega">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210720231500 -0500" stop="20210721000000 -0500" channel="Canal Mega">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210721000000 -0500" stop="20210721004500 -0500" channel="Canal Mega">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210721014500 -0500" stop="20210721054500 -0500" channel="Canal Mega">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210721170000 -0500" stop="20210721180000 -0500" channel="Canal Mega">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210721185000 -0500" stop="20210721195000 -0500" channel="Canal Mega">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210721195000 -0500" stop="20210721210000 -0500" channel="Canal Mega">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210722000000 -0500" stop="20210722004500 -0500" channel="Canal Mega">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210722170000 -0500" stop="20210722180000 -0500" channel="Canal Mega">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210722185000 -0500" stop="20210722195000 -0500" channel="Canal Mega">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210722195000 -0500" stop="20210722210000 -0500" channel="Canal Mega">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210722223000 -0500" stop="20210722231500 -0500" channel="Canal Mega">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210722231500 -0500" stop="20210723001500 -0500" channel="Canal Mega">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210720003000 -0500" stop="20210720010000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720030000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">No Time to Die (2021)</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720033000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210720033000 -0500" stop="20210720040000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720044500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210720044500 -0500" stop="20210720050000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Barcelona campeón de UEFA Women's Champions League 2020-2021</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720070000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Compact - Test Match de Los Pumas</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720090000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Clasificación Copa Mundial de Rugby</title>
+  </programme>
+  <programme start="20210720090000 -0500" stop="20210720103000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20210720103000 -0500" stop="20210720110000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720130000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720133000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720133000 -0500" stop="20210720140000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720143000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210720143000 -0500" stop="20210720150000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720153000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720160000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720180000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Ciclismo Tour de Francia</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720190000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720200000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Golf PGA Tour</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720230000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">M.L.B. - ESPN's Tuesday Night Baseball</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210721000000 -0500" stop="20210721010000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Balandrismo</title>
+  </programme>
+  <programme start="20210721010000 -0500" stop="20210721020000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721020000 -0500" stop="20210721030000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Golf PGA Tour</title>
+  </programme>
+  <programme start="20210721030000 -0500" stop="20210721040000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210721040000 -0500" stop="20210721050000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Balandrismo</title>
+  </programme>
+  <programme start="20210721050000 -0500" stop="20210721060000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721063000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20210721063000 -0500" stop="20210721070000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721073000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Balandrismo</title>
+  </programme>
+  <programme start="20210721073000 -0500" stop="20210721100000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Playoff de la NBA</title>
+  </programme>
+  <programme start="20210721100000 -0500" stop="20210721103000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210721103000 -0500" stop="20210721110000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210721110000 -0500" stop="20210721120000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721120000 -0500" stop="20210721140000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Original Documentaries</title>
+  </programme>
+  <programme start="20210721140000 -0500" stop="20210721150000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210721150000 -0500" stop="20210721160000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Golf PGA Tour</title>
+  </programme>
+  <programme start="20210721160000 -0500" stop="20210721170000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721170000 -0500" stop="20210721173000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Polo</title>
+  </programme>
+  <programme start="20210721173000 -0500" stop="20210721180000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Ciclismo</title>
+  </programme>
+  <programme start="20210721180000 -0500" stop="20210721200000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Original Documentaries</title>
+  </programme>
+  <programme start="20210721200000 -0500" stop="20210721230000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Beisbol MLB</title>
+  </programme>
+  <programme start="20210721230000 -0500" stop="20210722000000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Balandrismo</title>
+  </programme>
+  <programme start="20210722000000 -0500" stop="20210722010000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20210722010000 -0500" stop="20210722013000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210722013000 -0500" stop="20210722020000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Ciclismo</title>
+  </programme>
+  <programme start="20210722020000 -0500" stop="20210722023000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210722023000 -0500" stop="20210722030000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Goles de la MLS</title>
+  </programme>
+  <programme start="20210722030000 -0500" stop="20210722033000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Polo</title>
+  </programme>
+  <programme start="20210722033000 -0500" stop="20210722040000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Ciclismo</title>
+  </programme>
+  <programme start="20210722040000 -0500" stop="20210722060000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Original Documentaries</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722063000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210722063000 -0500" stop="20210722070000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210722070000 -0500" stop="20210722073000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210722073000 -0500" stop="20210722080000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Goles de la MLS</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722090000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210722090000 -0500" stop="20210722100000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210722100000 -0500" stop="20210722110000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Golf PGA Tour</title>
+  </programme>
+  <programme start="20210722110000 -0500" stop="20210722120000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210722120000 -0500" stop="20210722122500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Polo</title>
+  </programme>
+  <programme start="20210722122500 -0500" stop="20210722125000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Ciclismo</title>
+  </programme>
+  <programme start="20210722125000 -0500" stop="20210722150000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">UD Las Palmas vs. Sevilla</title>
+  </programme>
+  <programme start="20210722150000 -0500" stop="20210722160000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Revista del Turf Argentino</title>
+  </programme>
+  <programme start="20210722160000 -0500" stop="20210722170000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Hipismo</title>
+  </programme>
+  <programme start="20210722170000 -0500" stop="20210722173000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210722173000 -0500" stop="20210722174500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Chelsea Campeón UEFA Champions League 2020-2021</title>
+  </programme>
+  <programme start="20210722174500 -0500" stop="20210722181500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Snow Time</title>
+  </programme>
+  <programme start="20210722181500 -0500" stop="20210722184500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20210722184500 -0500" stop="20210722194500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210722194500 -0500" stop="20210722201500 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20210722201500 -0500" stop="20210722223000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Octavos de final vuelta Rosario Central vs. Deportivo Táchira</title>
+  </programme>
+  <programme start="20210722223000 -0500" stop="20210722233000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">ESPN Playroom</title>
+  </programme>
+  <programme start="20210722233000 -0500" stop="20210723000000 -0500" channel="Canal ESPN 3 (Sur)">
+    <title lang="es">Lo mejor de MotoGP</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720030000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720040000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720050000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720063000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720070000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720090000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Ciclismo Tour de Francia</title>
+  </programme>
+  <programme start="20210720090000 -0500" stop="20210720100000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720120000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210720120000 -0500" stop="20210720140000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720143000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Balandrismo</title>
+  </programme>
+  <programme start="20210720143000 -0500" stop="20210720150000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720160000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Saltos Hípicos - Chantilly Rolex Masters Grand Prix</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720170000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Highlights - PGA Tour</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720180000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720203000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720210000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">N.B.A. esta noche</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720233000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Playoff de la NBA</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721000000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721000000 -0500" stop="20210721003000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721003000 -0500" stop="20210721030000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210721030000 -0500" stop="20210721040000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Saltos Hípicos - Chantilly Rolex Masters Grand Prix</title>
+  </programme>
+  <programme start="20210721050000 -0500" stop="20210721060000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Highlights - PGA Tour</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721063000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210721063000 -0500" stop="20210721070000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721073000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210721073000 -0500" stop="20210721080000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210721080000 -0500" stop="20210721090000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210721090000 -0500" stop="20210721100000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721100000 -0500" stop="20210721110000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Highlights - PGA Tour</title>
+  </programme>
+  <programme start="20210721110000 -0500" stop="20210721113000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210721113000 -0500" stop="20210721120000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210721120000 -0500" stop="20210721123000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721123000 -0500" stop="20210721130000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721130000 -0500" stop="20210721133000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721133000 -0500" stop="20210721140000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN Latin America North</title>
+  </programme>
+  <programme start="20210721140000 -0500" stop="20210721160000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210721160000 -0500" stop="20210721170000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210721170000 -0500" stop="20210721173000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">M.L.S. Magazine</title>
+  </programme>
+  <programme start="20210721173000 -0500" stop="20210721174500 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Chelsea Campeón UEFA Champions League 2020-2021</title>
+  </programme>
+  <programme start="20210721174500 -0500" stop="20210721201500 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Octavos de final vuelta Barcelona SC vs. Vélez Sársfield</title>
+  </programme>
+  <programme start="20210721201500 -0500" stop="20210721223000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Octavos de final vuelta Flamengo vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210721223000 -0500" stop="20210721233000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Highlights - PGA Tour</title>
+  </programme>
+  <programme start="20210721233000 -0500" stop="20210722020000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210722233000 -0500" stop="20210723020000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210723020000 -0500" stop="20210723030000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210723030000 -0500" stop="20210723040000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN FC Show</title>
+  </programme>
+  <programme start="20210723050000 -0500" stop="20210723060000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210723060000 -0500" stop="20210723080000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Octavos de final vuelta Flamengo vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210723080000 -0500" stop="20210723090000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN tenis</title>
+  </programme>
+  <programme start="20210723090000 -0500" stop="20210723093000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210723093000 -0500" stop="20210723100000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210723100000 -0500" stop="20210723110000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20210723110000 -0500" stop="20210723113000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210723113000 -0500" stop="20210723120000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">A.T.P. Tour Uncovered</title>
+  </programme>
+  <programme start="20210723120000 -0500" stop="20210723135000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210723135000 -0500" stop="20210723160000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Villarreal vs. Lyon</title>
+  </programme>
+  <programme start="20210723160000 -0500" stop="20210723180000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20210723180000 -0500" stop="20210723203000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210723233000 -0500" stop="20210724003000 -0500" channel="Canal ESPN 2 Chile">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20210720003000 -0500" stop="20210720023000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Godoy Cruz vs. Rosario Central</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720043000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Sarmiento (J) vs. Estudiantes (LP)</title>
+  </programme>
+  <programme start="20210720043000 -0500" stop="20210720050000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720070000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Huracán vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720090000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Newell's vs. Talleres (C)</title>
+  </programme>
+  <programme start="20210720090000 -0500" stop="20210720100000 -0500" channel="Canal TNT Sports">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720103000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Boca</title>
+  </programme>
+  <programme start="20210720103000 -0500" stop="20210720110000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720130000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Halcones y palomas</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720150000 -0500" channel="Canal TNT Sports">
+    <title lang="es">River vs. Colón</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720153000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720160000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Lo Mejor de la Fecha</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720190000 -0500" channel="Canal TNT Sports">
+    <title lang="es">TNT Sports radio continental</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720200000 -0500" channel="Canal TNT Sports">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720220000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Unión (SF) vs. Boca</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720230000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal TNT Sports">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20210721000000 -0500" stop="20210721003000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Rompe redes</title>
+  </programme>
+  <programme start="20210721003000 -0500" stop="20210721023000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Huracán vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210721023000 -0500" stop="20210721043000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Aldosivi vs. Patronato</title>
+  </programme>
+  <programme start="20210721050000 -0500" stop="20210721070000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Sarmiento (J) vs. Estudiantes (LP)</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721090000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Huracán vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210721130000 -0500" stop="20210721150000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Independiente vs. Argentinos Juniors</title>
+  </programme>
+  <programme start="20210721200000 -0500" stop="20210721203000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210721203000 -0500" stop="20210721210000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Lo Mejor de la Fecha</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210721220000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Interior futbolero</title>
+  </programme>
+  <programme start="20210722000000 -0500" stop="20210722003000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210722003000 -0500" stop="20210722023000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Arsenal vs. San Lorenzo</title>
+  </programme>
+  <programme start="20210722023000 -0500" stop="20210722043000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Gimnasia (LP) vs. Platense</title>
+  </programme>
+  <programme start="20210722050000 -0500" stop="20210722070000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Godoy Cruz vs. Rosario Central</title>
+  </programme>
+  <programme start="20210722070000 -0500" stop="20210722090000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Central Córdoba (SE) vs. Banfield</title>
+  </programme>
+  <programme start="20210722130000 -0500" stop="20210722150000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Unión (SF) vs. Boca</title>
+  </programme>
+  <programme start="20210722200000 -0500" stop="20210722220000 -0500" channel="Canal TNT Sports">
+    <title lang="es">Velez vs. Racing</title>
+  </programme>
+  <programme start="20210720005000 -0500" stop="20210720025000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Show de Goles</title>
+  </programme>
+  <programme start="20210720025000 -0500" stop="20210720035000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210720035000 -0500" stop="20210720055000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210720055000 -0500" stop="20210720060000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720061000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20210720061000 -0500" stop="20210720081000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210720081000 -0500" stop="20210720105000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Audax Italiano vs. Huachipato</title>
+  </programme>
+  <programme start="20210720105000 -0500" stop="20210720133000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Everton vs. Deportivo Ñublense</title>
+  </programme>
+  <programme start="20210720133000 -0500" stop="20210720140000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Especial TNT Sports</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720143000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210720143000 -0500" stop="20210720172000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deportes La Serena vs. Palestino</title>
+  </programme>
+  <programme start="20210720172000 -0500" stop="20210720180000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Especial TNT Sports</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720190000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720200000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720225000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Universidad de Chile vs. Deportes Melipilla</title>
+  </programme>
+  <programme start="20210720225000 -0500" stop="20210721002000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20210721002000 -0500" stop="20210721011500 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20210721011500 -0500" stop="20210721021000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Historias de Cracks</title>
+  </programme>
+  <programme start="20210721021000 -0500" stop="20210721040500 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210721040500 -0500" stop="20210721060000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210721060000 -0500" stop="20210721070000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210721070000 -0500" stop="20210721140000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210721140000 -0500" stop="20210721160000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210721160000 -0500" stop="20210721180000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210721180000 -0500" stop="20210721190000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210721190000 -0500" stop="20210721210000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210722041000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210722210000 -0500" stop="20210723041000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210723041000 -0500" stop="20210723060000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210723060000 -0500" stop="20210723080000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210723080000 -0500" stop="20210723140000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210723140000 -0500" stop="20210723160000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210723160000 -0500" stop="20210723180000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210723180000 -0500" stop="20210723190000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210723190000 -0500" stop="20210723210000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210723210000 -0500" stop="20210724090000 -0500" channel="Canal TNT Sports 2">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720035000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Rangers de Talca vs. Deportes Santa Cruz</title>
+  </programme>
+  <programme start="20210720035000 -0500" stop="20210720055000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210720055000 -0500" stop="20210720060000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720061000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20210720061000 -0500" stop="20210720081000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210720081000 -0500" stop="20210720105000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Audax Italiano vs. Huachipato</title>
+  </programme>
+  <programme start="20210720105000 -0500" stop="20210720133000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Everton vs. Deportivo Ñublense</title>
+  </programme>
+  <programme start="20210720133000 -0500" stop="20210720140000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Especial TNT Sports</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720160000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720180000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">eSports</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720190000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720210000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720220000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Goles ascenso</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720233000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721020000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Universidad de Chile vs. Deportes Melipilla</title>
+  </programme>
+  <programme start="20210721233000 -0500" stop="20210722020000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Universidad de Chile vs. Deportes Melipilla</title>
+  </programme>
+  <programme start="20210722020000 -0500" stop="20210722030000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Historias de Cracks</title>
+  </programme>
+  <programme start="20210722030000 -0500" stop="20210722040000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210722040000 -0500" stop="20210722060000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210722060000 -0500" stop="20210722070000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210722070000 -0500" stop="20210722140000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210722140000 -0500" stop="20210722160000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210722160000 -0500" stop="20210722180000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210722180000 -0500" stop="20210722190000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20210722190000 -0500" stop="20210722210000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210722210000 -0500" stop="20210723041000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210723041000 -0500" stop="20210723060000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20210723060000 -0500" stop="20210723080000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20210723080000 -0500" stop="20210723140000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210723210000 -0500" stop="20210724090000 -0500" channel="Canal TNT Sports 3">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210720003000 -0500" stop="20210720011500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210720011500 -0500" stop="20210720021500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210720021500 -0500" stop="20210720060000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Cierra</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720063000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">3x3</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720080000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720130000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720145000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210720145000 -0500" stop="20210720145500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210720145500 -0500" stop="20210720160000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720174500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210720174500 -0500" stop="20210720210000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720223000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210720223000 -0500" stop="20210720223500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210720223500 -0500" stop="20210720233000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">La Torre de Mabel</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721003000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Chicago Med</title>
+  </programme>
+  <programme start="20210721021500 -0500" stop="20210721060000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Cierra</title>
+  </programme>
+  <programme start="20210721233000 -0500" stop="20210722003000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Siempre hay un chileno</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720013000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210720013000 -0500" stop="20210720020000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720023000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720023000 -0500" stop="20210720030000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720033000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720033000 -0500" stop="20210720040000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720043000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720043000 -0500" stop="20210720050000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720063000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720080000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720083000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+  <programme start="20210720083000 -0500" stop="20210720110000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Mañana Informativa</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720111500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Informe DW</title>
+  </programme>
+  <programme start="20210720111500 -0500" stop="20210720123000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">La Mañana Informativa</title>
+  </programme>
+  <programme start="20210720123000 -0500" stop="20210720130000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720153000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720154500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Informe DW</title>
+  </programme>
+  <programme start="20210720154500 -0500" stop="20210720163000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720163000 -0500" stop="20210720170000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720190000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720194500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210720194500 -0500" stop="20210720210000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720224500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210720224500 -0500" stop="20210720230000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Frontera global</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+  <programme start="20210721023000 -0500" stop="20210721030000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210721080000 -0500" stop="20210721083000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Reporte minero</title>
+  </programme>
+  <programme start="20210721153000 -0500" stop="20210721154500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+  <programme start="20210721163000 -0500" stop="20210721164500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Informe DW</title>
+  </programme>
+  <programme start="20210721164500 -0500" stop="20210721170000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20210721170000 -0500" stop="20210721190000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210721190000 -0500" stop="20210721194500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210721194500 -0500" stop="20210721210000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210721210000 -0500" stop="20210721224500 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210721224500 -0500" stop="20210721230000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Frontera global</title>
+  </programme>
+  <programme start="20210721230000 -0500" stop="20210722000000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722083000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Mirada Económica</title>
+  </programme>
+  <programme start="20210722163000 -0500" stop="20210722170000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Reporte minero</title>
+  </programme>
+  <programme start="20210722170000 -0500" stop="20210722180000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210722180000 -0500" stop="20210722183000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Mirada Económica</title>
+  </programme>
+  <programme start="20210722183000 -0500" stop="20210722190000 -0500" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210720004500 -0500" stop="20210720013000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">La divina comida - Trasnoche</title>
+  </programme>
+  <programme start="20210720013000 -0500" stop="20210720063000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720080000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720130000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720153000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720171500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210720171500 -0500" stop="20210720181500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210720181500 -0500" stop="20210720203000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720223000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210721004500 -0500" stop="20210721013000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210721013000 -0500" stop="20210721063000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210721080000 -0500" stop="20210721130000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210721153000 -0500" stop="20210721171500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210721171500 -0500" stop="20210721181500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210722080000 -0500" stop="20210722130000 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210722171500 -0500" stop="20210722181500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210722223000 -0500" stop="20210723004500 -0500" channel="Canal Chilevisión (CHV)">
+    <title lang="es">El Discipulo Del Chef</title>
+  </programme>
+</tv>
